@@ -4,12 +4,12 @@ This is a simple Python program that allows the user to manipulate a list of ite
 
 ## Getting Started
 ### Prerequisites
-To run this program, you need to have Python 3.x installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+- Python 3.x 
 
 ### Installing
 To install this program, simply clone this repository to your local machine:
 
-`git clone https://github.com/<username>/python-list-manipulation.git`
+`git clone https://github.com/Xiphurn/python-list-manipulation.git`
 
 ### Running the Program
 To run the program, navigate to the project directory in a terminal and run the following command:
