@@ -40,7 +40,7 @@ If the user chooses to clear the list, the program removes all elements from the
 If the user chooses to quit the program, the program saves the list data to the "list.JSON" file and exits.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is released under the MIT License.
 
 ## Acknowledgments
 This program was created as a learning exercise for basic Python programming and file I/O with JSON. It can be used as a starting point for more complex list manipulation programs with persistent data storage.
